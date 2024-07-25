@@ -4,6 +4,8 @@
   
   # Bunny Manager
 
+> **Warning**: Use of modified versions of the Discord app may violate Discord’s terms of service. Use at your own risk.
+
 Easily install Bunny on Android
 
 [![Latest release](https://img.shields.io/github/v/release/pyoncord/BunnyManager?color=3AB8BA&display_name=release&label=Latest&style=for-the-badge)](https://github.com/pyoncord/BunnyManager/releases/latest)
@@ -26,9 +28,6 @@ Easily install Bunny on Android
   <br>
 
   <img src="images/screenshot_home.jpg" width="200px">
-
-> [!WARNING]
-> Warning: Critical content demanding immediate user attention due to potential risks.
 
 </div>
 
